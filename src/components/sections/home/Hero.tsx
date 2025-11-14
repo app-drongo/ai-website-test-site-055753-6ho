@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  badge: 'New: Website Testing Platform',
+  badge: 'New: Website Testing Platforms',
   title: 'Build and test websites',
   titleHighlight: 'faster than ever',
   description:
